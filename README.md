@@ -1,2 +1,2 @@
 # Artificial Intelligence Lab | ECE NTUA
-### Giannis Polychronopoulos, Katerina Michou
+### John Polychronopoulos, Katerina Michou
